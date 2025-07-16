@@ -1,0 +1,1 @@
+*.csv,[[:space:]]*.xls,[[:space:]]*.xlxs filter=lfs diff=lfs merge=lfs -text
