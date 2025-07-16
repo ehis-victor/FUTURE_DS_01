@@ -110,7 +110,10 @@ Unique & repeat customers
 <img width="1657" height="931" alt="Country-Region Analysis" src="https://github.com/user-attachments/assets/eaa691be-f5cd-4b54-a7e8-a213c1b8333a" />
 
 ---
+## Author
+[Ekikhalo Victor Ehinome] · [www.linkedin.com/in/ekikhalo-victor]
 
+---
 ## 💬 Feedback & Contributions
 Feel free to fork, reuse, or build on this project. Questions and feedback are welcome!
 
