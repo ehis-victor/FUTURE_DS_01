@@ -64,6 +64,7 @@ Combo charts for revenue vs quantity
 🔹 4. Customer Behavior
 Unique & repeat customers
 
+---
 
 ## 💡 Key Insights
 - Afternoon generated 57.56% of total quantity sold
@@ -76,6 +77,8 @@ Unique & repeat customers
 
 - Top revenue item: Regency Cake Stand 3 Tier
 
+  ---
+
 ## 🚧 Challenges
 - Handling missing or null CustomerID
 
@@ -84,6 +87,8 @@ Unique & repeat customers
 - Visualizing hourly trends and large category names
 
 - Retention modeling using limited time range
+
+  ---
 
 ## 📈 Recommendations
 - Focus marketing between 12–3 PM
