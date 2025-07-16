@@ -77,7 +77,7 @@ Unique & repeat customers
 
 - Top revenue item: Regency Cake Stand 3 Tier
 
-  ---
+---
 
 ## 🚧 Challenges
 - Handling missing or null CustomerID
@@ -88,7 +88,7 @@ Unique & repeat customers
 
 - Retention modeling using limited time range
 
-  ---
+---
 
 ## 📈 Recommendations
 - Focus marketing between 12–3 PM
@@ -106,7 +106,8 @@ Unique & repeat customers
 ## 📸 Dashboard Previews
 <img width="1667" height="938" alt="Sales Overview" src="https://github.com/user-attachments/assets/73ef0143-0f9a-41c6-b123-2a2893f6d800" />
 <img width="1658" height="942" alt="Customer-Product Performance" src="https://github.com/user-attachments/assets/1bfb46dc-d06e-4fa7-bd2d-e060f2ba5ef5" />
-
+<img width="1657" height="928" alt="Time Of Day Analysis" src="https://github.com/user-attachments/assets/1b3a3cbf-fb04-4ded-8c4c-238c8e76a9f4" />
+<img width="1657" height="931" alt="Country-Region Analysis" src="https://github.com/user-attachments/assets/eaa691be-f5cd-4b54-a7e8-a213c1b8333a" />
 
 ---
 
