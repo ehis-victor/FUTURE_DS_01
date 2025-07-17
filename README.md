@@ -37,9 +37,9 @@ This dashboard tracks and analyzes e-commerce performance from 2009 to 2011. Usi
 ## 📁 Folder Structure
 
 ecommerce-sales-dashboard/
-├── data/              # Raw & processed datasets
+├── data/              # Excluded due to large sized data.
 ├── sql/               # SQL scripts
-├── powerbi/           # PBIX file and pdf
+├── powerbi/           # PBIX file
 ├── visuals/           # Dashboard screenshots
 └── README.md
 
